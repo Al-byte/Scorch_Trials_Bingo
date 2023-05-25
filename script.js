@@ -201,6 +201,54 @@ const questions = [
   {
     question: 'Who is the best YouTuber?',
     img: './images/Coach W.jpg'
+  },
+  {
+    question: 'What is 2 + 2?',
+   img: './images/Scorch_Trials/Aris.jpg'
+  },
+  {
+    question: 'Who is the best YouTuber?',
+    img: './images/Scorch_Trials/Brenda.jpg'
+  },
+  {
+    question: 'What is 2 + 2?',
+   img: './images/Scorch_Trials/Crank.jpg'
+  },
+  {
+    question: 'Who is the best YouTuber?',
+    img: './images/Scorch_Trials/Jansen.jpg'
+  },
+  {
+    question: 'What is 2 + 2?',
+   img: './images/Scorch_Trials/Jorge.jpg'
+  },
+  {
+    question: 'Who is the best YouTuber?',
+    img: './images/Scorch_Trials/Lawrence.jpg'
+  },
+  {
+    question: 'What is 2 + 2?',
+   img: './images/Scorch_Trials/Mary.jpg'
+  },
+  {
+    question: 'Who is the best YouTuber?',
+    img: './images/Scorch_Trials/Scorch_Maze.jpg'
+  },
+  {
+    question: 'What is 2 + 2?',
+   img: './images/Scorch_Trials/The_Last_City.jpg'
+  },
+  {
+    question: 'Who is the best YouTuber?',
+    img: './images/Scorch_Trials/The_Right_Arm.jpg'
+  },
+  {
+    question: 'What is 2 + 2?',
+   img: './images/Scorch_Trials/Vince.jpg'
+  },
+  {
+    question: 'Who is the best YouTuber?',
+    img: './images/Scorch_Trials/Winston.jpg'
   }/*,
   {
     question: 'Is web development fun?',
